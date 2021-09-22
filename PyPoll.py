@@ -8,4 +8,5 @@ with open(File_to_Load) as election_data:
 #3.The percentage of votes each canidate won
 #4.The total number of votes each canidate won
 #5.The winner of the election based on popular vote
-    print(election_data)
+    print(election_data)  
+    
