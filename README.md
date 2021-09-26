@@ -37,7 +37,7 @@ This script can be modified for future election with a few modification. This ca
 <br>
 We can reuse the code used in this script and use the same programming flow to find other factors that can tell us more about the election. We can use the following codes to look at different cariables. <br>
 <br>
-![Create Variables](Resources/creatvar_scs.png)<br>
+![Create Variables](Resources/createvar_scs.png)<br>
 <br>
 ![Finding Factors](Resources/flrgest_scs.png)<br>
 <br>
